@@ -8,3 +8,8 @@ driver.findElement.css
 driver.findElement.
 chromedriver driver=new chromedriver();
 driver.findelement(by.xpath()).click;
+driver.findElement.id
+driver.findElement.name
+driver.findElement.class
+driver.findElement.tagname
+driver.findElement.linktext
