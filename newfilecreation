@@ -6,3 +6,5 @@ driver.findElement.linktext
 driver.findElement.partialText
 driver.findElement.css
 driver.findElement.
+chromedriver driver=new chromedriver();
+driver.findelement(by.xpath()).click;
